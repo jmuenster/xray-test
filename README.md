@@ -2,7 +2,7 @@
 
 ```
 npm i
-sls deploy -v
+npx sls deploy -v
 <turn on tracing via console>
 ```
 
